@@ -28,4 +28,5 @@ print("hello world")
 [Python Latest Repo](https://github.com/matamkiran/python2020).
 
 ### Wanna Explore Other Programming Languages
-[Spring Boot](https://github.com/matamkiran/SPRING_BOOT_CURD).
+[Spring Boot](https://github.com/matamkiran/SpringBoot).
+[Django CRUD Operations](https://github.com/matamkiran/django_tutorial)
