@@ -6,9 +6,8 @@
 
 ```markdown
 
-[Functions in Python](https://github.com/matamkiran/python2020/tree/master/functions) 
 ```
-
+[Functions in Python](https://github.com/matamkiran/python2020/tree/master/functions) 
 
 
 ### Dig Python more Deep 
