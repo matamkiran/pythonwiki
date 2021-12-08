@@ -1,6 +1,7 @@
 theme: jekyll-theme-architect
 posts: _posts
 # Default values
+baseurl: /pythonwiki/
 defaults:
   -
     scope:
