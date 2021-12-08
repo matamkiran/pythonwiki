@@ -5,18 +5,8 @@
 
 
 ```markdown
-'print("hello world")'
 
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Functions in Python](https://github.com/matamkiran/python2020/tree/master/functions) 
 ```
 
 
