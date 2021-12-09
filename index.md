@@ -20,3 +20,6 @@
 ### Wanna Explore Other Programming Languages
 [Spring Boot](https://github.com/matamkiran/SpringBoot).
 [Django CRUD Operations](https://github.com/matamkiran/django_tutorial)
+
+## Watch US on Youtube
+[Closures in Python](https://www.youtube.com/watch?v=FnJ3nCxJ2BY&list=PLfn1X0acn8m0Yk2FQOc6iSearVYId62pD)
