@@ -21,7 +21,7 @@ print("hello world")
 [Link](url) and ![Image](src)
 ```
 
-
+{% include home.html%}
 
 ### Dig Python more Deep 
 
